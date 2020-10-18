@@ -4,7 +4,7 @@ If you're working with multiple online curicula, an LMS, and an SIS and you're s
 
 This repository is a collection of tools and information for moving scores between online curricula, the LMS, and the SIS.
 
-## What's Here
+## Platforms
 
 ### Skyward
 
@@ -15,3 +15,5 @@ This repository is a collection of tools and information for moving scores betwe
 ### Code.Org
 
 ### TestOut (LabSim)
+
+## Tools
